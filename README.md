@@ -1,4 +1,6 @@
 # salarios
+
+![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)
  
 ## EDA (Análisis exploratorio de datos)
 
